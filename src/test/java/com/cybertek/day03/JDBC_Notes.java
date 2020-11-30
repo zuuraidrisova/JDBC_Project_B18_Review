@@ -228,6 +228,7 @@ Download MYSQL driver
 		select database from right panel , expand it
 		you will see Third party database driver
 		Click on add entry -- find your driver file and click select
+
      */
 
 }
